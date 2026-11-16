@@ -12,6 +12,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased] - TBD
 ### Changed
+- Updated the GEOS-Chem submodule for duration-based HISTORY output buffering in RAM.
 - Changed `LUO_WETDEP` to `ON` by default (except for TOMAS, which dies upon compilation); Updated RTD docs accordingly
 
 ## [14.8.0] - 2026-09-15
